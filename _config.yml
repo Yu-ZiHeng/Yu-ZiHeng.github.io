@@ -5,7 +5,7 @@ remote_theme: "mmistakes/minimal-mistakes"
 minimal_mistakes_skin: "default"
 
 author:
-  name             : "Ziheng Yu"
+  name             : "Ziheng Yu （余子恒）"
   avatar           : "/photo.jpg" # Path to your photo
   bio              : "Ph.D. Candidate in Economics<br>the University of Texas at Austin"
   location         : "Austin, TX, USA"
