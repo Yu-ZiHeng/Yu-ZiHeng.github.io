@@ -6,8 +6,8 @@ author_profile: true
 
 <style>
   .author__avatar img {
-    width: 300px !important;
-    max-width: 300px !important;
+    width: 260px !important;
+    max-width: 260px !important;
     height: auto !important;
   }
 </style>
