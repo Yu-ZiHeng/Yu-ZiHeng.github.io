@@ -6,38 +6,34 @@ permalink: /teaching/
 
 ## Independent Teaching Experience as an Assistant Instructor 
 
-Fall 2025 ECO 329 Economic Statistics
+ECO 329 Economic Statistics: Fall 2025 
 
-Summer 2025 ECO n329 Economic Statistics-WB
+ECO n329 Economic Statistics-WB: Summer 2025
 
 ## As a Teaching Assistant
 
-Fall 2026 ECO 394K Microeconomics (Master level) Gerald Oettinger
+ECO 394K Microeconomics (Master level) for Prof. Gerald Oettinger: Fall 2026 
 
-Spring 2026 ECO 352K Business Strategy David Sibley
+ECO 352K Business Strategy for Prof. David Sibley: Spring 2026
 
-Fall 2024 ECO 353M Empirical Public Economics David Sibley
+ECO 353M Empirical Public Economics for Prof. David Sibley: Fall 2024 
 
-Summer 2024 ECO f320L Macroeconomic Theory-WB Trenton Herriford
+ECO f320L Macroeconomic Theory-WB for Prof. Trenton Herriford: Summer 2024 
 
-Spring 2024 ECO 386D Microeconomics II (PhD level) Svetlana Boyarchenko
+ECO 386D Microeconomics II (PhD level) for Prof. Svetlana Boyarchenko: Spring 2023, Spring 2024 
 
-Spring 2024 ECO 354K Introductory Game Theory V. Bhaskar
+ECO 354K Introductory Game Theory for Prof. V. Bhaskar: Fall 2022, Spring 2024
 
-Fall 2023 ECO 420K Microeconomic Theory Gerald Oettinger
+ECO 420K Microeconomic Theory for Prof. Gerald Oettinger: Fall 2023 
 
-Summer 2023 ECO s395M 1-Real Analysis (Master level) Kirk Blazek
+ECO s395M 1-Real Analysis (Master level) for Prof. Kirk Blazek: Summer 2023 
 
-Spring 2023 ECO 386D Microeconomics II (PhD level) Svetlana Boyarchenko
+ECO 304K Introduction to Microeconomics for Prof. G. Dirk Mateer: Spring 2022 
 
-Fall 2022 ECO 354K Introductory Game Theory V. Bhaskar
+ECO 304K Intro to Microeconomics-WB for Prof. Charity-Joy Acchiardo & for Prof. G. Dirk Mateer: Fall 2021 
 
-Spring 2022 ECO 304K Introduction to Microeconomics G. Dirk Mateer
-
-Fall 2021 ECO 304K Intro to Microeconomics-WB Charity-Joy Acchiardo & G. Dirk Mateer
-
-Fall 2020 ECO 464 Competitive Strategy and Industrial Organization Huseyin Yildirim
+ECO 464 Competitive Strategy and Industrial Organization for Prof. Huseyin Yildirim: Fall 2020 
 
 ## Others 
 
-Spring 2025 Supplemental Instruction Supervisor for Economics at Sanger Learning Center of the University of Texas at Austin
+Supplemental Instruction Supervisor for Economics at Sanger Learning Center of the University of Texas at Austin: Spring 2025 
