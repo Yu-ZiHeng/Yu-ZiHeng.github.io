@@ -3,8 +3,11 @@ layout: single
 title: "Research"
 permalink: /research/
 ---
+### Working Papers
 
-#### [The Case of Apple’s Restrictions on Super Apps: Is the U.S. Department of Justice Right?](Super_App.pdf)  (2026, Job Market Paper)
+#### [The Case of Apple’s Restrictions on Super Apps: Is the U.S. Department of Justice Right?](Super_App.pdf)  
+
+#### (2026, Job Market Paper)
 
 The novel “super app” technology, which emerged in the early 2010s, enables
 app developers to write and run a single version of an app on different operating 
@@ -18,3 +21,9 @@ find that a primary reason for Apple’s behavior is the dominant position of it
 iOS platform on the consumer side of the U.S. smartphone market—iOS does
 not hold this position in Asia. I also identify three factors that determine the
 effects of Apple’s restrictions on the welfare of consumers and app developers.
+
+### Work in Progress
+
+#### Interdependent Bargains with Downstream Competition and Vertical Merger
+
+#### with David Sibley and Yihang Zhou
