@@ -1,36 +1,41 @@
 SCSS
 ---
-# 必须保留顶部这两行 ---，告诉 Jekyll 编译 SCSS
+# 保留顶部 front matter
 ---
 
-@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // 加载皮肤样式
-@import "minimal-mistakes"; // 加载基础样式
+/* ==========================================================================
+   1. 在 @import 之前覆盖主题的字号变量（完美解决响应式大屏覆盖问题）
+   ========================================================================== */
+$doc-font-size: 14px !default;        # 移动端/小屏基础字号
+$doc-font-size-medium: 14px !default; # 中屏基础字号
+$doc-font-size-large: 14px !default;  # 电脑大屏基础字号 (默认原为 18px)
 
 /* ==========================================================================
-   自定义字号调节
+   2. 加载主题核心样式
+   ========================================================================== */
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
+@import "minimal-mistakes";
+
+/* ==========================================================================
+   3. 在 @import 之后强制微调局部细节 (加上 !important 确保生效)
    ========================================================================== */
 
-/* 1. 降低全站基础字号 (主题默认约 16px - 18px，这里调小到 15px) */
-html {
-  font-size: 3px;
+/* 强制更改正文和页面内容字号 */
+body, .page__content {
+  font-size: 14px !important;
 }
 
-/* 2. 调小正文文字 (可选微调) */
-body {
-  font-size: 0.95rem; /* 默认是 1rem */
-}
+/* 调小各级标题 */
+h1 { font-size: 1.5rem !important; }
+h2 { font-size: 1.25rem !important; }
+h3 { font-size: 1.1rem !important; }
 
-/* 3. 调小标题字号 (h1 - h6) */
-h1 { font-size: 1.6rem; }
-h2 { font-size: 1.35rem; }
-h3 { font-size: 1.15rem; }
-h4 { font-size: 1.0rem; }
-
-/* 4. 调小顶部导航栏 Tab 菜单字号 */
+/* 调小顶部导航 Tab 字号 */
 .greedy-nav a {
-  font-size: 0.9rem;
+  font-size: 0.85rem !important;
 }
 
+/* 标题下划线样式 */
 h2 {
   border-bottom: 1px solid #e0e0e0;
   padding-bottom: 8px;
