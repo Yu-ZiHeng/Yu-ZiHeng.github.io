@@ -3,6 +3,13 @@ layout: single
 title: "Teaching & Working Experiences"
 permalink: /teaching/
 ---
+<style>
+  .author__avatar img {
+    width: 260px !important;
+    max-width: 260px !important;
+    height: auto !important;
+  }
+</style>
 
 #### Independent Teaching Experience as an Assistant Instructor 
 
