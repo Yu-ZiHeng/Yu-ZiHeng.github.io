@@ -19,6 +19,8 @@ author:
       
 # 指定使用 _data/navigation.yml 里的 main 导航栏
 main:
+  - title: "Home"
+    url: /
   - title: "Research"
     url: /research/
   - title: "Teaching"
