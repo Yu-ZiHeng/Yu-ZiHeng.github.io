@@ -1,0 +1,24 @@
+<!-- 全局字号强行覆盖（绕过主题所有 SCSS 变量与媒体查询限制） -->
+<style>
+  /* 1. 强行把全局正文、列表、段落全改为小字号 (精准击穿 .page__content 的覆盖) */
+  html, body, .page__content, .page__content p, .page__content li, .archive__item-excerpt {
+    font-size: 10px !important;  /* 想要多小改这里：例如 13px 或 14px */
+    line-height: 1.5 !important;
+  }
+
+  /* 2. 调小所有标题 */
+  .page__title { font-size: 1.6rem !important; }
+  .page__content h1 { font-size: 1.4rem !important; }
+  .page__content h2 { font-size: 1.2rem !important; }
+  .page__content h3 { font-size: 1.05rem !important; }
+
+  /* 3. 调小左侧 Sidebar 个人简介与链接 */
+  .author__bio, .author__urls, .author__location {
+    font-size: 12.5px !important;
+  }
+
+  /* 4. 调小顶部 Tab 导航栏 */
+  .greedy-nav a {
+    font-size: 13px !important;
+  }
+</style>
