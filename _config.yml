@@ -7,7 +7,7 @@ minimal_mistakes_skin: "default"
 author:
   name             : "Ziheng Yu"
   avatar           : "/photo.jpg" # Path to your photo
-  bio              : "Ph.D. Candidate in Economics at the University of Texas at Austin."
+  bio              : "Ph.D. Candidate in Economics<br>the University of Texas at Austin"
   location         : "Austin, TX, USA"
   links:
     - label: "Email"
