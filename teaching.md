@@ -36,10 +36,12 @@ ECO f320L Macroeconomic Theory-WB for Prof. Trenton Herriford
 
 ECO 386D Microeconomics II (PhD level) for Prof. Svetlana Boyarchenko
 > Spring 2024
+
 > Spring 2023 
 
 ECO 354K Introductory Game Theory for Prof. V. Bhaskar
 > Spring 2024
+
 > Fall 2022
 
 ECO 420K Microeconomic Theory for Prof. Gerald Oettinger
