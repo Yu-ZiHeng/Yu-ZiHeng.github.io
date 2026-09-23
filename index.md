@@ -1,1 +1,1 @@
-[Download CV](Ziheng_Yu_CV.pdf)
+[My CV](Ziheng_Yu_CV.pdf)
