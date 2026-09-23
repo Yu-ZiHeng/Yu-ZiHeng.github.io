@@ -32,3 +32,12 @@ main:
 plugins:
   - jekyll-remote-theme
   - jekyll-include-cache
+
+defaults:
+  # 针对所有页面 (Pages) 自动开启侧边栏
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "single"
+      author_profile: true
