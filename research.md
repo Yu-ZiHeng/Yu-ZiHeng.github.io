@@ -1,4 +1,4 @@
-2026 [The Case of Apple’s Restrictions on Super Apps: Is the U.S. Department of Justice Right?](Super App.pdf) (Job Market Paper)
+[The Case of Apple’s Restrictions on Super Apps: Is the U.S. Department of Justice Right?](Super App.pdf) (2026, Job Market Paper)
 
 The novel “super app” technology, which emerged in the early 2010s, enables
 app developers to write and run a single version of an app on different operating 
