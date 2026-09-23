@@ -11,7 +11,7 @@ permalink: /teaching/
   }
 </style>
 
-#### Independent Teaching Experience as an Assistant Instructor 
+## Independent Teaching Experience as an Assistant Instructor 
 
 ECO 329 Economic Statistics
 > Fall 2025 
@@ -19,7 +19,7 @@ ECO 329 Economic Statistics
 ECO n329 Economic Statistics-WB
 > Summer 2025
 
-#### As a Teaching Assistant
+## As a Teaching Assistant
 
 ECO 394K Microeconomics (Master level)<br>&emsp;for Prof. Gerald Oettinger
 > Fall 2026 
@@ -54,7 +54,7 @@ ECO 304K Intro to Microeconomics-WB<br>&emsp;for Prof. Charity-Joy Acchiardo & P
 ECO 464 Competitive Strategy and Industrial Organization (at Duke University)<br>&emsp;for Prof. Huseyin Yildirim
 > Fall 2020 
 
-#### Others 
+## Others 
 
 Supplemental Instruction Supervisor for Economics<br>&emsp;at Sanger Learning Center of the University of Texas at Austin
 > Spring 2025 
