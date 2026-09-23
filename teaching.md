@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Teaching"
+title: "Teaching & Working Experiences"
 permalink: /teaching/
 ---
 
