@@ -1,7 +1,8 @@
 title: "Ziheng Yu"
 
 # Load theme from GitHub repository
-remote_theme: "qdmr/hydejack-free"
+remote_theme: "mmistakes/minimal-mistakes"
+minimal_mistakes_skin: "default"
 
 author:
   name             : "Ziheng Yu"
