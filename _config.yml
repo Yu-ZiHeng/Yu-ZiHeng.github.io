@@ -2,7 +2,7 @@ title: "My Name"
 description: "Welcome to my website"
 
 # Load theme from GitHub repository
-remote_theme: YoussefRaafatNasry/portfolYOU
+remote_theme: mmistakes/minimal-mistakes
 
 # Required plugin to render remote themes on GitHub Pages
 plugins:
