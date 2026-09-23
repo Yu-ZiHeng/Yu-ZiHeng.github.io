@@ -1,5 +1,3 @@
-### [Ziheng Yu](index.md) | [Research](research.md) | [Teaching](teaching.md) | [CV](Ziheng_Yu_CV.pdf) 
-
 ## Ziheng Yu
 
 #### Ph.D. candidate, Department of Economics, the University of Texas at Austin
