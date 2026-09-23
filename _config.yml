@@ -1,5 +1,20 @@
 title: "Ziheng Yu"
 
+author:
+  name             : "Ziheng Yu"
+  avatar           : "/Ziheng_Yu.jpg" # Path to your photo
+  bio              : "Ph.D. Candidate in Economics at the University of Texas at Austin."
+  location         : "City, Country"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "ziheng.yu@utexas.edu"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/Yu-ZiHeng"
+
+
+
 # Load theme from GitHub repository
 remote_theme: "mmistakes/minimal-mistakes"
 minimal_mistakes_skin: "default"
