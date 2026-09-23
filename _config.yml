@@ -1,5 +1,9 @@
 title: "Ziheng Yu"
 
+# Load theme from GitHub repository
+remote_theme: "mmistakes/minimal-mistakes"
+minimal_mistakes_skin: "default"
+
 author:
   name             : "Ziheng Yu"
   avatar           : "/Ziheng_Yu.jpg" # Path to your photo
@@ -12,13 +16,7 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Yu-ZiHeng"
-
-
-
-# Load theme from GitHub repository
-remote_theme: "mmistakes/minimal-mistakes"
-minimal_mistakes_skin: "default"
-
+      
 # 指定使用 _data/navigation.yml 里的 main 导航栏
 main:
   - title: "Home"
