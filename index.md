@@ -1,6 +1,5 @@
 ---
 layout: splash
-title: "Home"
 author_profile: true
 ---
 
