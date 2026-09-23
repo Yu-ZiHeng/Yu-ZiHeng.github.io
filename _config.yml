@@ -2,11 +2,20 @@ title: "Ziheng Yu"
 
 # Load theme from GitHub repository
 remote_theme: "mmistakes/minimal-mistakes"
-
-# Choose a skin/color scheme (e.g., default, air, aqua, contrast, dark, dirt, neon, mint, plum, sunrise)
 minimal_mistakes_skin: "default"
 
-# Required plugins for GitHub Pages and Minimal Mistakes
+# 指定使用 _data/navigation.yml 里的 main 导航栏
+main:
+  - title: "Home"
+    url: /
+  - title: "About"
+    url: /about/
+  - title: "Research"
+    url: /research/
+  - title: "Contact"
+    url: /contact/
+
+# 必需插件
 plugins:
   - jekyll-remote-theme
   - jekyll-include-cache
