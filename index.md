@@ -1,4 +1,4 @@
-### [Ziheng Yu](home) | [Research](research) | [Teaching](teaching) | [CV](Ziheng_Yu_CV.pdf) 
+### [Ziheng Yu](index) | [Research](research) | [Teaching](teaching) | [CV](Ziheng_Yu_CV.pdf) 
 
 ## Ziheng Yu
 
