@@ -1,3 +1,9 @@
+---
+layout: single
+title: "Research"
+permalink: /research/
+---
+
 #### [The Case of Apple’s Restrictions on Super Apps: Is the U.S. Department of Justice Right?](Super_App.pdf)  (2026, Job Market Paper)
 
 The novel “super app” technology, which emerged in the early 2010s, enables
