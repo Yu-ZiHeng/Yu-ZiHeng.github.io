@@ -1,0 +1,32 @@
+SCSS
+---
+# 必须保留顶部这两行 ---，告诉 Jekyll 编译 SCSS
+---
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // 加载皮肤样式
+@import "minimal-mistakes"; // 加载基础样式
+
+/* ==========================================================================
+   自定义字号调节
+   ========================================================================== */
+
+/* 1. 降低全站基础字号 (主题默认约 16px - 18px，这里调小到 15px) */
+html {
+  font-size: 15px;
+}
+
+/* 2. 调小正文文字 (可选微调) */
+body {
+  font-size: 0.95rem; /* 默认是 1rem */
+}
+
+/* 3. 调小标题字号 (h1 - h6) */
+h1 { font-size: 1.6rem; }
+h2 { font-size: 1.35rem; }
+h3 { font-size: 1.15rem; }
+h4 { font-size: 1.0rem; }
+
+/* 4. 调小顶部导航栏 Tab 菜单字号 */
+.greedy-nav a {
+  font-size: 0.9rem;
+}
