@@ -2,8 +2,12 @@ title: "My Name"
 description: "Welcome to my website"
 
 # Load theme from GitHub repository
-remote_theme: mmistakes/minimal-mistakes
+remote_theme: "mmistakes/minimal-mistakes"
 
-# Required plugin to render remote themes on GitHub Pages
+# Choose a skin/color scheme (e.g., default, air, aqua, contrast, dark, dirt, neon, mint, plum, sunrise)
+minimal_mistakes_skin: "default"
+
+# Required plugins for GitHub Pages and Minimal Mistakes
 plugins:
   - jekyll-remote-theme
+  - jekyll-include-cache
