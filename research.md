@@ -3,6 +3,14 @@ layout: single
 title: "Research"
 permalink: /research/
 ---
+<style>
+  .author__avatar img {
+    width: 260px !important;
+    max-width: 260px !important;
+    height: auto !important;
+  }
+</style>
+
 #### Working Papers
 
  [The Case of Apple’s Restrictions on Super Apps: Is the U.S. Department of Justice Right?](Super_App.pdf)  
