@@ -11,7 +11,7 @@ permalink: /research/
   }
 </style>
 
-#### Working Papers
+## Working Papers
 
  [The Case of Apple’s Restrictions on Super Apps: Is the U.S. Department of Justice Right?](Super_App.pdf)  
  
@@ -30,7 +30,7 @@ iOS platform on the consumer side of the U.S. smartphone market—iOS does
 not hold this position in Asia. I also identify three factors that determine the
 effects of Apple’s restrictions on the welfare of consumers and app developers.
 
-#### Work in Progress
+## Work in Progress
 
 Interdependent Bargains with Downstream Competition and Vertical Merger
 
