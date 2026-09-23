@@ -1,8 +1,7 @@
 title: "Ziheng Yu"
 
 # Load theme from GitHub repository
-remote_theme: "mmistakes/minimal-mistakes"
-minimal_mistakes_skin: "default"
+remote_theme: "academicpages/academicpages.github.io"
 
 author:
   name             : "Ziheng Yu"
