@@ -2,7 +2,7 @@
 
 ## Ziheng Yu
 
-# Ph.D. candidate, Department of Economics, the University of Texas at Austin
+#### Ph.D. candidate, Department of Economics, the University of Texas at Austin
 
 
 Welcome to my personal website! 
