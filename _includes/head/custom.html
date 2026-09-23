@@ -4,15 +4,6 @@
   html, body, .page__content, .page__content p, .page__content li, .archive__item-excerpt {
     font-size: 16px !important;  /* 想要多小改这里：例如 13px 或 14px */
     line-height: 1.5 !important;
-
-blockquote, 
-.page__content blockquote, 
-.archive blockquote {
-  margin-top: 1px !important;     /* 整个缩进块顶部间距 */
-  margin-bottom: 2px !important;  /* 整个缩进块底部间距 */
-  padding-top: 0px !important;    /* 内部顶部留白 */
-  padding-bottom: 0px !important; /* 内部底部留白 */
-}
   }
 
   /* 2. 调小所有标题 */
@@ -29,5 +20,22 @@ blockquote,
   /* 4. 调小顶部 Tab 导航栏 */
   .greedy-nav a {
     font-size: 16px !important;
+  }
+
+  .page__content p, .archive p {
+    margin-bottom: 3px !important; /* 缩小 ECO 354K 下方的空隙 */
+  }
+
+  /* 2. 压缩连续 blockquote 之间的空隙 */
+  blockquote, .page__content blockquote, .archive blockquote {
+    margin-top: 1px !important;    /* 缩小引用块顶部边距 */
+    margin-bottom: 1px !important; /* 缩小引用块底部边距 */
+    padding: 0 0 0 15px !important;/* 缩减左侧线条与文字间距 */
+  }
+
+  /* 3. 压缩引用块内部文字的行高 */
+  blockquote p, .page__content blockquote p, .archive blockquote p {
+    margin-bottom: 0px !important;
+    line-height: 1.25 !important;  /* 学期之间的紧凑行间距 */
   }
 </style>
