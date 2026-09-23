@@ -1,0 +1,9 @@
+title: "My Name"
+description: "Welcome to my website"
+
+# Load theme from GitHub repository
+remote_theme: YoussefRaafatNasry/portfolYOU
+
+# Required plugin to render remote themes on GitHub Pages
+plugins:
+  - jekyll-remote-theme
