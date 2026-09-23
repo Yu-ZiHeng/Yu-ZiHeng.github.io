@@ -8,12 +8,12 @@ minimal_mistakes_skin: "default"
 main:
   - title: "Home"
     url: /
-  - title: "About"
-    url: /about/
   - title: "Research"
     url: /research/
-  - title: "Contact"
-    url: /contact/
+  - title: "Teaching"
+    url: /teaching/
+  - title: "CV"
+    url: /Ziheng_Yu_CV.pdf
 
 # 必需插件
 plugins:
