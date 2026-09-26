@@ -14,10 +14,10 @@ permalink: /teaching/
 ## Independent Teaching Experience as an Assistant Instructor 
 
 ECO 329 Economic Statistics
-> Fall 2025<br>&emsp;Teaching Evaluation: [Version A](Teaching%20Evaluation/Individual%20Instructor%20Report%20Fall%202025%20Version%20A%20for%20ECO%20329%20-%20ECONOMIC%20STATISTICS%20(36110)%20Ziheng%20Yu.pdf); [Version B](Teaching%20Evaluation/Individual%20Instructor%20Report%20Fall%202025%20Version%20B%20for%20ECO%20329%20-%20ECONOMIC%20STATISTICS%20(36110)%20Ziheng%20Yu.pdf)
+> Fall 2025<br>&emsp;[Syllabus](Teaching_Material/UT_Austin/ECO_329_Fall_2025_Syllabus.pdf)<br>&emsp;Lecture Notes: [#1&#2](Teaching_Material/UT_Austin/ECO_329_Fall_2025_Lecture Notes_1&2.pdf); [#3](); [#4.1&#4.2](); [#4.3](); [#5&#6](); [#7.1&#7.2](); [#7.3]()<br>&emsp;Teaching Evaluation: [Version A](Teaching_Evaluation/Fall_2025_ECO_329_Version_A.pdf); [Version B](Teaching_Evaluation/Fall_2025_ECO_329_Version_B.pdf)
 
 ECO n329 Economic Statistics-WB
-> Summer 2025<br>&emsp;Teaching Evaluation: [Version A]([Teaching Evaluation/Individual Instructor Report Summer 2025 Version A for ECO N329 - ECONOMIC STATISTICS-WB (79155) Ziheng Yu.pdf](https://github.com/Yu-ZiHeng/Yu-ZiHeng.github.io/blob/54dff3f077ccd40d3243af88b91dfc4a69eb75ec/Teaching%20Evaluation/Individual%20Instructor%20Report%20Summer%202025%20Version%20A%20for%20ECO%20N329%20-%20ECONOMIC%20STATISTICS-WB%20(79155)%20Ziheng%20Yu.pdf)); [Version B]([Teaching Evaluation/Individual Instructor Report Summer 2025 Version B for ECO N329 - ECONOMIC STATISTICS-WB (79155) Ziheng Yu.pdf](https://github.com/Yu-ZiHeng/Yu-ZiHeng.github.io/blob/54dff3f077ccd40d3243af88b91dfc4a69eb75ec/Teaching%20Evaluation/Individual%20Instructor%20Report%20Summer%202025%20Version%20B%20for%20ECO%20N329%20-%20ECONOMIC%20STATISTICS-WB%20(79155)%20Ziheng%20Yu.pdf))
+> Summer 2025<br>&emsp;[Syllabus](Teaching_Material/UT_Austin/ECO_N329_Summer_2025_Syllabus.pdf)<br>&emsp;Teaching Evaluation: [Version A](Teaching_Evaluation/Summer_2025_ECO_N329_Version_A.pdf); [Version B](Teaching_Evaluation/Summer_2025_ECO_N329_Version_B.pdf)
 
 <br><i>For each course I have taught, two versions of teaching evaluations are available on the online portal. Although they seem identical, I am including both versions here for the sake of completeness.</i>
 
@@ -27,22 +27,22 @@ ECO 394K Microeconomics (Master level)<br>&emsp;for Prof. Gerald Oettinger
 > Fall 2026
 
 ECO 352K Business Strategy<br>&emsp;for Prof. David Sibley
-> Spring 2026<br>&emsp;[Teaching Evaluation](Teaching Evaluation/Individual Teaching Assistant Report Spring 2026 for ECO 352K - BUSINESS STRATEGY (35395) Ziheng Yu.pdf)
+> Spring 2026<br>&emsp;[Teaching Evaluation](Teaching_Evaluation/Spring_2026_ECO_352K.pdf)
 
 ECO 353M Empirical Public Economics<br>&emsp;for Prof. David Sibley
-> Fall 2024<br>&emsp;[Teaching Evaluation](Teaching Evaluation/Individual Teaching Assistant Report Fall 2024 for ECO 353M - EMPIRICAL PUBLIC ECONOMICS (34020) Ziheng Yu.pdf)
+> Fall 2024<br>&emsp;[Teaching Evaluation](Teaching_Evaluation/Fall_2024_ECO_353M.pdf)
 
 ECO f320L Macroeconomic Theory-WB<br>&emsp;for Prof. Trenton Herriford
-> Summer 2024<br>&emsp;[Teaching Evaluation](Teaching Evaluation/Individual Teaching Assistant Report Summer 2024 for ECO F320L - MACROECONOMIC THEORY-WB (78890) Ziheng Yu.pdf)
+> Summer 2024<br>&emsp;[Teaching Evaluation](Teaching_Evaluation/Summer_2024_ECO_F320L.pdf)
 
 ECO 386D Microeconomics II (PhD level)<br>&emsp;for Prof. Svetlana Boyarchenko
-> Spring 2024<br>&emsp;[Teaching Evaluation](Teaching Evaluation/Individual Teaching Assistant Report Spring 2024 for ECO 386D - MICROECONOMICS II (33935) Ziheng Yu.pdf)<br>Spring 2023<br>&emsp;[Teaching Evaluation](Teaching Evaluation/Individual Teaching Assistant Report Spring 2023 for ECO 386D - MICROECONOMICS II (34675) Ziheng Yu.pdf) 
+> Spring 2024<br>&emsp;[Teaching Evaluation](Teaching_Evaluation/Spring_2024_ECO_386D.pdf)<br>Spring 2023<br>&emsp;[Teaching Evaluation](Teaching_Evaluation/Spring_2023_ECO_386D.pdf) 
 
 ECO 354K Introductory Game Theory<br>&emsp;for Prof. V. Bhaskar
-> Spring 2024<br>&emsp;[Teaching Evaluation](Teaching Evaluation/Individual Teaching Assistant Report Spring 2024 for ECO 354K - INTRODUCTORY GAME THEORY (33850  51234  53979) Ziheng Yu.pdf)<br>Fall 2022<br>&emsp;[Teaching Evaluation](Teaching Evaluation/Individual Teaching Assistant Report Fall 2022 for ECO 354K - INTRODUCTORY GAME THEORY (34700);C S 378 - INTRODUCTORY GA.pdf)
+> Spring 2024<br>&emsp;[Teaching Evaluation](Teaching_Evaluation/Spring_2024_ECO_354K.pdf)<br>Fall 2022<br>&emsp;[Teaching Evaluation](Teaching_Evaluation/Fall_2022_ECO_354K.pdf)
 
 ECO 420K Microeconomic Theory<br>&emsp;for Prof. Gerald Oettinger
-> Fall 2023<br>&emsp;[Teaching Evaluation](Teaching Evaluation/Individual Teaching Assistant Report Fall 2023 for ECO 420K - MICROECONOMIC THEORY (34665  34670) Ziheng Yu.pdf) 
+> Fall 2023<br>&emsp;[Teaching Evaluation](Teaching_Evaluation/Fall_2023_ECO_420K.pdf) 
 
 ECO s395M 1-Real Analysis (Master level)<br>&emsp;for Prof. Kirk Blazek
 > Summer 2023 
@@ -56,7 +56,7 @@ ECO 304K Intro to Microeconomics-WB<br>&emsp;for Prof. Charity-Joy Acchiardo & P
 ECO 464 Competitive Strategy and Industrial Organization (at Duke University)<br>&emsp;for Prof. Huseyin Yildirim
 > Fall 2020
 
-<br><i>Teaching evaluations prior to the 2023–24 academic year are unavailable on the portal; consequently, I am unable to access them.</i>
+<br><i>Teaching evaluations prior to the 2022–23 academic year are unavailable on the portal; consequently, I am unable to access them.</i>
 
 ## Others 
 
