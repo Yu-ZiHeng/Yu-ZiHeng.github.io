@@ -22,7 +22,7 @@ My research focuses on game theory and theoretical industrial organization, with
 
 ## Education
 
-Aug 2021 - present: <br>&emsp;Ph.D. in Economics, The University of Texas at Austin
+Aug 2021 - May 2027 (expected): <br>&emsp;Ph.D. in Economics, The University of Texas at Austin
 
 Aug 2019 - Dec 2020: <br>&emsp;M.A. Economics, Duke University
 
