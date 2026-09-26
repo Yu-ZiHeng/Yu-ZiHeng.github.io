@@ -13,7 +13,7 @@ permalink: /research/
 
 ## Working Papers
 
- [The Case of Apple’s Restrictions on Super Apps: Is the U.S. Department of Justice Right?]([Super_App.pdf](https://github.com/Yu-ZiHeng/Yu-ZiHeng.github.io/blob/main/Papers/Super_App.pdf))  
+ [The Case of Apple’s Restrictions on Super Apps: Is the U.S. Department of Justice Right?](https://github.com/Yu-ZiHeng/Yu-ZiHeng.github.io/blob/main/Papers/Super_App.pdf)
  
 (2026, Job Market Paper)
 
