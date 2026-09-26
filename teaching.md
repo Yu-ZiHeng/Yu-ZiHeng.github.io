@@ -14,7 +14,7 @@ permalink: /teaching/
 ## Independent Teaching Experience as an Assistant Instructor 
 
 ECO 329 Economic Statistics
-> Fall 2025<br>&emsp;Teaching Evaluation: [Version A](Teaching Evaluation/Individual Instructor Report Fall 2025 Version A for ECO 329 - ECONOMIC STATISTICS (36110) Ziheng Yu.pdf); [Version B](Teaching Evaluation/Individual Instructor Report Fall 2025 Version B for ECO 329 - ECONOMIC STATISTICS (36110) Ziheng Yu.pdf)
+> Fall 2025<br>&emsp;Teaching Evaluation: [Version A](Teaching%20Evaluation/Individual%20Instructor%20Report%20Fall%202025%20Version%20A%20for%20ECO%20329%20-%20ECONOMIC%20STATISTICS%20(36110)%20Ziheng%20Yu.pdf); [Version B](Teaching Evaluation/Individual Instructor Report Fall 2025 Version B for ECO 329 - ECONOMIC STATISTICS (36110) Ziheng Yu.pdf)
 
 ECO n329 Economic Statistics-WB
 > Summer 2025<br>&emsp;Teaching Evaluation: [Version A](Teaching Evaluation/Individual Instructor Report Summer 2025 Version A for ECO N329 - ECONOMIC STATISTICS-WB (79155) Ziheng Yu.pdf); [Version B](Teaching Evaluation/Individual Instructor Report Summer 2025 Version B for ECO N329 - ECONOMIC STATISTICS-WB (79155) Ziheng Yu.pdf)
