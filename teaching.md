@@ -14,33 +14,35 @@ permalink: /teaching/
 ## Independent Teaching Experience as an Assistant Instructor 
 
 ECO 329 Economic Statistics
-> Fall 2025 
+> Fall 2025<br>&emsp;Teaching Evaluation: Version A; Version B
 
 ECO n329 Economic Statistics-WB
-> Summer 2025
+> Summer 2025<br>&emsp;Teaching Evaluation: Version A; Version B
+
+<br><i>For each course I have taught, there are two versions of teaching evaluations available, though they seem to be identical.</i>
 
 ## As a Teaching Assistant
 
 ECO 394K Microeconomics (Master level)<br>&emsp;for Prof. Gerald Oettinger
-> Fall 2026 
+> Fall 2026<br>&emsp;Teaching Evaluation
 
 ECO 352K Business Strategy<br>&emsp;for Prof. David Sibley
-> Spring 2026
+> Spring 2026<br>&emsp;Teaching Evaluation
 
 ECO 353M Empirical Public Economics<br>&emsp;for Prof. David Sibley
-> Fall 2024 
+> Fall 2024<br>&emsp;Teaching Evaluation 
 
 ECO f320L Macroeconomic Theory-WB<br>&emsp;for Prof. Trenton Herriford
-> Summer 2024 
+> Summer 2024<br>&emsp;Teaching Evaluation 
 
 ECO 386D Microeconomics II (PhD level)<br>&emsp;for Prof. Svetlana Boyarchenko
-> Spring 2024<br>Spring 2023 
+> Spring 2024<br>&emsp;Teaching Evaluation<br>Spring 2023<br>&emsp;Teaching Evaluation 
 
 ECO 354K Introductory Game Theory<br>&emsp;for Prof. V. Bhaskar
-> Spring 2024<br>Fall 2022
+> Spring 2024<br>&emsp;Teaching Evaluation<br>Fall 2022<br>&emsp;Teaching Evaluation
 
 ECO 420K Microeconomic Theory<br>&emsp;for Prof. Gerald Oettinger
-> Fall 2023 
+> Fall 2023<br>&emsp;Teaching Evaluation 
 
 ECO s395M 1-Real Analysis (Master level)<br>&emsp;for Prof. Kirk Blazek
 > Summer 2023 
