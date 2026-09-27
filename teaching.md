@@ -14,7 +14,7 @@ permalink: /teaching/
 ## Independent Teaching Experience as an Assistant Instructor 
 
 ECO 329 Economic Statistics
-> Fall 2025<br>&emsp;[Syllabus](Teaching_Material/UT_Austin/ECO_329_Fall_2025_Syllabus.pdf)<br>&emsp;Lecture Notes: [#1&#2](); [#3](); [#4.1&#4.2](); [#4.3](); [#5&#6](); [#7.1&#7.2](); [#7.3]()<br>&emsp;Teaching Evaluation: [Version A](Teaching_Evaluation/Fall_2025_ECO_329_Version_A.pdf); [Version B](Teaching_Evaluation/Fall_2025_ECO_329_Version_B.pdf)
+> Fall 2025<br>&emsp;[Syllabus](Teaching_Material/UT_Austin/ECO_329_Fall_2025_Syllabus.pdf)<br>&emsp;Lecture Notes: [#1&#2](Teaching_Material/UT_Austin/ECO_329_Fall_2025_Lecture_Notes_1&2.pdf); [#3](Teaching_Material/UT_Austin/ECO_329_Fall_2025_Lecture_Notes_3.pdf); [#4.1&#4.2](Teaching_Material/UT_Austin/ECO_329_Fall_2025_Lecture_Notes_4.1&4.2.pdf); [#4.3](Teaching_Material/UT_Austin/ECO_329_Fall_2025_Lecture_Notes_4.3.pdf); [#5&#6](Teaching_Material/UT_Austin/ECO_329_Fall_2025_Lecture_Notes_5&6.pdf); [#7.1&#7.2](Teaching_Material/UT_Austin/ECO_329_Fall_2025_Lecture_Notes_7.1&7.2.pdf); [#7.3](Teaching_Material/UT_Austin/ECO_329_Fall_2025_Lecture_Notes_7.3.pdf)<br>&emsp;Teaching Evaluation: [Version A](Teaching_Evaluation/Fall_2025_ECO_329_Version_A.pdf); [Version B](Teaching_Evaluation/Fall_2025_ECO_329_Version_B.pdf)
 
 ECO n329 Economic Statistics-WB
 > Summer 2025<br>&emsp;[Syllabus](Teaching_Material/UT_Austin/ECO_N329_Summer_2025_Syllabus.pdf)<br>&emsp;Teaching Evaluation: [Version A](Teaching_Evaluation/Summer_2025_ECO_N329_Version_A.pdf); [Version B](Teaching_Evaluation/Summer_2025_ECO_N329_Version_B.pdf)
