@@ -27,22 +27,22 @@ ECO 394K Microeconomics (Master level)<br>&emsp;for Prof. Gerald Oettinger
 > Fall 2026
 
 ECO 352K Business Strategy<br>&emsp;for Prof. David Sibley
-> Spring 2026:[Teaching Evaluation](Teaching_Evaluation/Spring_2026_ECO_352K.pdf)
+> Spring 2026: [Teaching Evaluation](Teaching_Evaluation/Spring_2026_ECO_352K.pdf)
 
 ECO 353M Empirical Public Economics<br>&emsp;for Prof. David Sibley
-> Fall 2024:[Teaching Evaluation](Teaching_Evaluation/Fall_2024_ECO_353M.pdf)
+> Fall 2024: [Teaching Evaluation](Teaching_Evaluation/Fall_2024_ECO_353M.pdf)
 
 ECO f320L Macroeconomic Theory-WB<br>&emsp;for Prof. Trenton Herriford
-> Summer 2024:[Teaching Evaluation](Teaching_Evaluation/Summer_2024_ECO_F320L.pdf)
+> Summer 2024: [Teaching Evaluation](Teaching_Evaluation/Summer_2024_ECO_F320L.pdf)
 
 ECO 386D Microeconomics II (PhD level)<br>&emsp;for Prof. Svetlana Boyarchenko
-> Spring 2024:[Teaching Evaluation](Teaching_Evaluation/Spring_2024_ECO_386D.pdf)<br>Spring 2023:[Teaching Evaluation](Teaching_Evaluation/Spring_2023_ECO_386D.pdf) 
+> Spring 2024: [Teaching Evaluation](Teaching_Evaluation/Spring_2024_ECO_386D.pdf)<br>Spring 2023: [Teaching Evaluation](Teaching_Evaluation/Spring_2023_ECO_386D.pdf) 
 
 ECO 354K Introductory Game Theory<br>&emsp;for Prof. V. Bhaskar
-> Spring 2024:[Teaching Evaluation](Teaching_Evaluation/Spring_2024_ECO_354K.pdf)<br>Fall 2022:[Teaching Evaluation](Teaching_Evaluation/Fall_2022_ECO_354K.pdf)
+> Spring 2024: [Teaching Evaluation](Teaching_Evaluation/Spring_2024_ECO_354K.pdf)<br>Fall 2022: [Teaching Evaluation](Teaching_Evaluation/Fall_2022_ECO_354K.pdf)
 
 ECO 420K Microeconomic Theory<br>&emsp;for Prof. Gerald Oettinger
-> Fall 2023:[Teaching Evaluation](Teaching_Evaluation/Fall_2023_ECO_420K.pdf) 
+> Fall 2023: [Teaching Evaluation](Teaching_Evaluation/Fall_2023_ECO_420K.pdf) 
 
 ECO s395M 1-Real Analysis (Master level)<br>&emsp;for Prof. Kirk Blazek
 > Summer 2023 
