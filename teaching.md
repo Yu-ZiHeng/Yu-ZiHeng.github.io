@@ -56,7 +56,7 @@ ECO 304K Intro to Microeconomics-WB<br>&emsp;for Prof. Charity-Joy Acchiardo & P
 ECO 464 Competitive Strategy and Industrial Organization (at Duke University)<br>&emsp;for Prof. Huseyin Yildirim
 > Fall 2020
 
-<br><i>Teaching evaluations prior to the 2022–23 academic year are unavailable on the portal; consequently, I am unable to access them.</i>
+<br><i>Please note that teaching evaluations for some of the courses listed above are unavailable, as they are not archived on the portal.</i>
 
 ## Others 
 
