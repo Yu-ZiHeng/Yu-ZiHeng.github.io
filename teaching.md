@@ -17,7 +17,7 @@ ECO 329 Economic Statistics
 > Fall 2025:<br>&emsp;[Syllabus](Teaching_Material/UT_Austin/ECO_329_Fall_2025_Syllabus.pdf)<br>&emsp;Lecture Notes: [#1&#2](Teaching_Material/UT_Austin/ECO_329_Fall_2025_Lecture_Notes_1&2.pdf); [#3](Teaching_Material/UT_Austin/ECO_329_Fall_2025_Lecture_Notes_3.pdf); [#4.1&#4.2](Teaching_Material/UT_Austin/ECO_329_Fall_2025_Lecture_Notes_4.1&4.2.pdf); [#4.3](Teaching_Material/UT_Austin/ECO_329_Fall_2025_Lecture_Notes_4.3.pdf); [#5&#6](Teaching_Material/UT_Austin/ECO_329_Fall_2025_Lecture_Notes_5&6.pdf); [#7.1&#7.2](Teaching_Material/UT_Austin/ECO_329_Fall_2025_Lecture_Notes_7.1&7.2.pdf); [#7.3](Teaching_Material/UT_Austin/ECO_329_Fall_2025_Lecture_Notes_7.3.pdf)<br>&emsp;Teaching Evaluation: [Version A](Teaching_Evaluation/Fall_2025_ECO_329_Version_A.pdf); [Version B](Teaching_Evaluation/Fall_2025_ECO_329_Version_B.pdf)
 
 ECO n329 Economic Statistics-WB
-> Summer 2025:<br>&emsp;[Syllabus](Teaching_Material/UT_Austin/ECO_N329_Summer_2025_Syllabus.pdf)<br>&emsp;Teaching Evaluation: [Version A](Teaching_Evaluation/Summer_2025_ECO_N329_Version_A.pdf); [Version B](Teaching_Evaluation/Summer_2025_ECO_N329_Version_B.pdf)
+> Summer 2025:<br>&emsp;[Syllabus](Teaching_Material/UT_Austin/ECO_n329_Summer_2025_Syllabus.pdf)<br>&emsp;Teaching Evaluation: [Version A](Teaching_Evaluation/Summer_2025_ECO_n329_Version_A.pdf); [Version B](Teaching_Evaluation/Summer_2025_ECO_n329_Version_B.pdf)
 
 <br><i>For each course I have taught, two versions of teaching evaluations are available on the online portal. Although they seem identical, I am including both versions here for the sake of completeness.</i>
 
@@ -33,7 +33,7 @@ ECO 353M Empirical Public Economics<br>&emsp;for Prof. David Sibley
 > Fall 2024: [Teaching Evaluation](Teaching_Evaluation/Fall_2024_ECO_353M.pdf)
 
 ECO f320L Macroeconomic Theory-WB<br>&emsp;for Prof. Trenton Herriford
-> Summer 2024: [Teaching Evaluation](Teaching_Evaluation/Summer_2024_ECO_F320L.pdf)
+> Summer 2024: [Teaching Evaluation](Teaching_Evaluation/Summer_2024_ECO_f320L.pdf)
 
 ECO 386D Microeconomics II (PhD level)<br>&emsp;for Prof. Svetlana Boyarchenko
 > Spring 2024: [Teaching Evaluation](Teaching_Evaluation/Spring_2024_ECO_386D.pdf)<br>Spring 2023: [Teaching Evaluation](Teaching_Evaluation/Spring_2023_ECO_386D.pdf) 
