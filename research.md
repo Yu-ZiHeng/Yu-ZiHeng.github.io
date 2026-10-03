@@ -15,7 +15,7 @@ permalink: /research/
 
  [The Case of Apple’s Restrictions on Super Apps: Is the U.S. Department of Justice Right?](Papers/Super_App.pdf)
  
-(<b>Job Market Paper</b>, last updated: October, 2026)
+(<b>Job Market Paper</b>; last updated: October, 2026)
 
 The novel “super app” technology, which emerged in the early 2010s, enables app developers to run a single version of an app on different operating systems. Apple’s alleged practice of restricting super apps in the United States is one of the subjects of a recent antitrust complaint filed by the U.S. Department of Justice (2024). I present a model of a two-sided market with cross-side network effects to investigate two questions:  why Apple restricts super apps in the United States but not in Asia; and whether its restrictions may adversely affect market competition and welfare in the United States. Furthermore, I show that whether these restrictions harm consumers and developers depends critically on whether consumers view platforms as highly differentiated or close substitutes, the degree to which restrictions on super apps increase consumers' switching costs and decrease developers' multi-homing savings, and the number of apps operating on each platform.
 
