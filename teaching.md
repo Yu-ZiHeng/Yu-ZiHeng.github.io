@@ -62,4 +62,4 @@ Competitive Strategy and Industrial Organization (Online, at Duke University)<br
 Supplemental Instruction Supervisor for Economics<br>&emsp;at Sanger Learning Center of the University of Texas at Austin
 > Spring 2025
 
-<i>Supported a team of peer educators running weekly sessions for core economics courses by conducting regular session plan reviews, session observations, and targeted post-observation meetings, while leading weekly workshops on active learning and inclusive teaching practices.</i>
+<i>Supervised a team of peer educators running weekly sessions for core economics courses by leading workshops on active learning and inclusive pedagogy, reviewing session plans, conducting session observations, and providing targeted feedback in one-on-one meetings.</i>
