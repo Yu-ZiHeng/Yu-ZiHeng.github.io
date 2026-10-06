@@ -23,7 +23,7 @@ The novel “super app” technology, which emerged in the early 2010s, enables 
 
 (Last updated: October, 2026)
 
-This paper examines the welfare implications of the receiver's costly information acquisition in a cheap-talk model. I find that both a reduction in the cost of information acquisition and an increase in the informativeness of the information source can generate welfare gains, regardless of the welfare weights and whether receiver learning crowds out sender communication. Furthermore, a cost reduction improves welfare under broader conditions than an increase in informativeness.
+This paper examines the welfare implications of the receiver's costly information acquisition in a cheap-talk model. I find that both a reduction in the cost of information acquisition and an increase in the informativeness of the information source can generate welfare gains, regardless of the welfare weights or whether receiver learning crowds out sender communication. Furthermore, a cost reduction improves welfare under broader conditions than an increase in informativeness.
 
 ## Work in Progress
 
