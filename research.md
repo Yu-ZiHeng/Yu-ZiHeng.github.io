@@ -29,4 +29,6 @@ This paper examines the welfare implications of the receiver's costly informatio
 
 Interdependent Bargains with Downstream Competition and Vertical Merger
 
-with David Sibley and Yihang Zhou
+<i>with David Sibley and Yihang Zhou</i>
+
+We examine interdependent bargaining where two downstream competitors simultaneously bargain with a common upstream input seller under both the Nash bargaining solution (NBS) and the alternating-offer (AO) protocol. We evaluate the competitive effects of a vertical merger between the seller and one of the downstream competitors. In the post-merger case, we establish a theoretical equivalence showing that each NBS under specific bargaining powers is equivalent to an alternating-offer bargaining outcome for specific discounting factors. This result highlights a critical limitation in the existing empirical literature: whenever estimated discount factors and bargaining powers violate this equivalence relationship, the empirical application of NBS lacks structural microfoundations.
