@@ -37,7 +37,7 @@ Macroeconomic Theory (In-person) <br>&emsp;for Prof. Trenton Herriford
 Microeconomics II (Ph.D. level, in-person)<br>&emsp;for Prof. Svetlana Boyarchenko
 > Spring 2024: [Teaching Evaluation](Teaching_Evaluation/Spring_2024_ECO_386D.pdf)<br>Spring 2023: [Teaching Evaluation](Teaching_Evaluation/Spring_2023_ECO_386D.pdf) 
 
-ECO 354K Introductory Game Theory<br>&emsp;for Prof. V. Bhaskar
+ECO 354K Introductory Game Theory (In-person) <br>&emsp;for Prof. V. Bhaskar
 > Spring 2024: [Teaching Evaluation](Teaching_Evaluation/Spring_2024_ECO_354K.pdf)<br>Fall 2022: [Teaching Evaluation](Teaching_Evaluation/Fall_2022_ECO_354K.pdf)
 
 Microeconomic Theory (In-person)<br>&emsp;for Prof. Gerald Oettinger
