@@ -27,7 +27,7 @@ This paper examines the welfare implications of the receiver's costly informatio
 
 ## Work in Progress
 
-Interdependent Bargains with Downstream Competition and Vertical Merger
+Interdependent Bargaining with Downstream Competition and Vertical Merger
 
 <i>with David Sibley and Yihang Zhou</i>
 
