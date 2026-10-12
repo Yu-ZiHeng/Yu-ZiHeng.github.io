@@ -16,9 +16,9 @@ author_profile: true
 
 I'm Ziheng Yu, a Ph.D. candidate in Economics on the job market in Fall 2026. 
 
-I am from China, where I received my Bachelor in Economics from Wuhan University in Hubei. Then, I moved to the United States, received my M.A. Economics degree from Duke University in North Carolina, and decided to further pursue my studies in theoretical economics at the University of Texas at Austin. 
+I am from China, where I received my Bachelor of Economics from Wuhan University in Hubei. Then, I moved to the United States, received my M.A. in Economics degree from Duke University in North Carolina, and decided to further pursue my studies in theoretical economics at the University of Texas at Austin. 
 
-My primary research field is microeconomic theory. My research lies at the intersection of applied microeconomic theory and industrial organization, with a primary focus on platform competition, market structure, and bargaining. I combine mathematical modeling, text analysis, and numerical simulation to study noncooperative games and issues in competition policy so as to better understand market outcomes, the market subjects' behaviors, and the relevant welfare consequences.
+My primary research field is microeconomic theory. My research lies at the intersection of applied microeconomic theory and industrial organization, with a primary focus on platform competition, market structure, and bargaining. I combine mathematical modeling, text analysis, and numerical simulation to study noncooperative games and issues in competition policy to better understand market outcomes, the market participants' behavior, and the relevant welfare consequences.
 
 Outside of research and teaching, I am an avid long-distance runner and enjoy cycling, badminton, cooking, and music.
 
