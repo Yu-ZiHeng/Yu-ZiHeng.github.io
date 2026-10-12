@@ -20,6 +20,8 @@ I am from China, where I received my Bachelor in Economics from Wuhan University
 
 My primary research field is microeconomic theory. My research lies at the intersection of applied microeconomic theory and industrial organization, with a primary focus on platform competition, market structure, and bargaining. I combine mathematical modeling, text analysis, and numerical simulation to study noncooperative games and issues in competition policy so as to better understand market outcomes, the market subjects' behaviors, and the relevant welfare consequences.
 
+Outside of research and teaching, I am an avid long-distance runner and enjoy cycling, badminton, cooking, and music.
+
 ## Education
 
 Aug 2021 - May 2027 (expected): <br>&emsp;Ph.D. in Economics, The University of Texas at Austin
